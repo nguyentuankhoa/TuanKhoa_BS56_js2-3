@@ -25,7 +25,7 @@ function giaTriTrungBinh() {
 }
 
 
-// b3: quy đổi USD ra tiền VNĐ
+// bài 3: quy đổi USD ra tiền VNĐ
 // input: giá đô la hiện tại 23.000 vnd, cho người dùng nhập vào số đô la
 // các bước xử lí: quy đổi 23.000 vnd * so do la
 // output: quy đổi và xuất ra giá trị
